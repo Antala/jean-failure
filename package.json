@@ -1,6 +1,6 @@
 {
   "name": "jean-failure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides error throwing functionality",
   "main": "dist/jean-failure.js",
   "scripts": {
