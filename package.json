@@ -10,7 +10,7 @@
   "author": "Jeremias Andris",
   "license": "MIT",
   "dependencies": {
-    "jean-amd": "Antala/jean-amd"
+    "jean-amd": "git+https://github.com/Antala/jean-amd.git"
   },
   "repository": {
     "type": "git",
